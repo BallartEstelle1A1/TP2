@@ -1,12 +1,12 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: pink;
 }
 
 #header
 {
-	background: #ccc;
+	background: grey;
 	padding: 20px;
 }
 
@@ -16,7 +16,7 @@
 {
 	float: left;
 	width: 100%;
-	background: #333;
+	background: black;
 }
 
 #navigation ul
@@ -36,7 +36,7 @@
 	display: block;
 	float: left;
 	padding: 5px 10px;
-	color: pink;
+	color: 00fff8;
 	text-decoration: none;
 	border-right: 1px solid #fff;
 }
